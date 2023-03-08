@@ -13,7 +13,7 @@ Adafruit_MPU6050.h  <br>
 Adafruit_Sensor.h  <br> 
 Wire.h  <br> 
 
-## Hardware documentaion
+## Hardware documentation
 
 Microcontroller https://learn.adafruit.com/adafruit-feather-m0-adalogger  <br> 
 GPS breakout https://learn.adafruit.com/adafruit-ultimate-gps  <br> 
