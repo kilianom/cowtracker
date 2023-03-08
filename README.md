@@ -21,4 +21,4 @@ IMU https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro  <br>
 
 ## Wiring
 
-
+![alt text](https://github.com/kilianom/cowtracker/blob/main/cowtracker_Steckplatine.png?raw=true)
